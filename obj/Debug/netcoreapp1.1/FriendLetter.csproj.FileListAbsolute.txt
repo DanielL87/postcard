@@ -1,0 +1,16 @@
+/Users/Guest/Downloads/csharp-friend-letter-example-1_configuring_and_constructing/FriendLetter/bin/Debug/netcoreapp1.1/FriendLetter.deps.json
+/Users/Guest/Downloads/csharp-friend-letter-example-1_configuring_and_constructing/FriendLetter/bin/Debug/netcoreapp1.1/FriendLetter.runtimeconfig.json
+/Users/Guest/Downloads/csharp-friend-letter-example-1_configuring_and_constructing/FriendLetter/bin/Debug/netcoreapp1.1/FriendLetter.runtimeconfig.dev.json
+/Users/Guest/Downloads/csharp-friend-letter-example-1_configuring_and_constructing/FriendLetter/bin/Debug/netcoreapp1.1/FriendLetter.dll
+/Users/Guest/Downloads/csharp-friend-letter-example-1_configuring_and_constructing/FriendLetter/bin/Debug/netcoreapp1.1/FriendLetter.pdb
+/Users/Guest/Downloads/csharp-friend-letter-example-1_configuring_and_constructing/FriendLetter/obj/Debug/netcoreapp1.1/FriendLetter.AssemblyInfo.cs
+/Users/Guest/Downloads/csharp-friend-letter-example-1_configuring_and_constructing/FriendLetter/obj/Debug/netcoreapp1.1/FriendLetter.dll
+/Users/Guest/Downloads/csharp-friend-letter-example-1_configuring_and_constructing/FriendLetter/obj/Debug/netcoreapp1.1/FriendLetter.pdb
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/bin/Debug/netcoreapp1.1/FriendLetter.deps.json
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/bin/Debug/netcoreapp1.1/FriendLetter.runtimeconfig.json
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/bin/Debug/netcoreapp1.1/FriendLetter.runtimeconfig.dev.json
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/bin/Debug/netcoreapp1.1/FriendLetter.dll
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/bin/Debug/netcoreapp1.1/FriendLetter.pdb
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp1.1/FriendLetter.AssemblyInfo.cs
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp1.1/FriendLetter.dll
+/Users/Guest/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp1.1/FriendLetter.pdb
